@@ -26,4 +26,6 @@ I am a first-year Computer Science student studying at **IIT Bombay**. My primar
 
 **Discord:** `sciencedoneright` *(For casual/personal contacting)*
 
+###### *GitHub account est. March 21st, 2021.*
+
 ---
