@@ -20,7 +20,7 @@ I am a first-year Computer Science student studying at **IIT Bombay**. My primar
 ---
 
 # 📞 Socials and Contact information
-**LinkedIn:**
+**LinkedIn:** `Kota Yashwin`
 
 **Instagram:** `@kotayashwin`
 
