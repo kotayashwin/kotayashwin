@@ -2,7 +2,8 @@
 
 Hi there! I'm Kota Yashwin (Former username Code-Done-Right).
 I code primarily in Python and JavaScript. My primary interest lies in the field of computer science, but I am also passionate about closely related mathematical topics and science.
-I have secured the 54th rank in JEE (Advanced) 2026, and I will be pursuing my undergraduate in computer science at IIT Bombay. 
+
+### I have secured the 54th rank in JEE (Advanced) 2026, and I will be pursuing my undergraduate in computer science at IIT Bombay. 
 
 If you so desire, you may reach out by DMing my Discord account: scienedoneright (Legacy Tag: Science Done Right#6027)
 However, this Discord account is mostly for personal use, not professional.
