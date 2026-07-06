@@ -2,7 +2,7 @@
 
 Hi there! I'm **Kota Yashwin** (*former username Code-Done-Right*).
 
-I am a first-year Computer Science student studying at **IIT Bombay**. My primary interest lies in the field of **computer science**, and I am also passionate about related **mathematical topics and science**.
+I am a first-year Computer Science student studying at **IIT Bombay**, and I am passionate in **software engineering, related mathematical topics, and science**.
 
 ---
 
