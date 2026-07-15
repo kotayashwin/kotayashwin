@@ -18,6 +18,7 @@ Passionate about software engineering, mathematical topics, and science.
 
 * **Languages:** Python, JavaScript, C++
 * **Focus:** Building mini-projects, websites, bot scrapers, and API wrappers.
+* **Projects:** Working on DevCord, an in-dev Discord API wrapper to make simple guild bots.
 
 ---
 
@@ -28,4 +29,4 @@ Passionate about software engineering, mathematical topics, and science.
 **Instagram:** [@kota_yashwin](https://www.instagram.com/kota_yashwin)
 
 ***
-*GitHub account est. March 21st, 2021.*
+###### *GitHub account est. March 21st, 2021.*
